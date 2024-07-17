@@ -7,6 +7,5 @@ def divide(first, second):
     else:
         return inf
 
-
-# divide(45, 5)
-# divide(23, 0)
+# print(divide(45, 5))
+# print(divide(23, 0))
