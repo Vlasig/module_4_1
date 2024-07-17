@@ -5,5 +5,5 @@ def divide(first, second):
     else:
         return 'Ошибка'
 
-# divide(45, 9)
-# divide(23, 0)
+# print(divide(45, 9))
+# print(divide(23, 0))
